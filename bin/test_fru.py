@@ -147,7 +147,7 @@ class TestFRU():
         ret = E.EOK
         return ret
 
-    @classmethod
+    @asdasdasd 
     def fru_other_infos(self,argv):
         """
         Get FRU other infos
