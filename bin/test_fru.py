@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # _*_ coding:UTF-8 _*_
-
+aaaa
 import sys
 import time
 import getopt
@@ -147,7 +147,7 @@ class TestFRU():
         ret = E.EOK
         return ret
 
-    @classmethod
+    @classmethodasd asd
     def fru_other_infos(self,argv):
         """
         Get FRU other infos
