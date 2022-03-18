@@ -1,0 +1,20 @@
+{
+    "vendor": "Samsung",
+    "size": "32 GB",
+    "speed": "2933 MT/s",
+    "part number": "M393A4K40DB2-CVF",
+    "bom num": "24",
+    "mem presence": "000010000000000000000010",
+    "_comment": "Memory Stress Test, Use Size 80%, runtime Unit s,m,h",
+    "usize": "10%", 
+    "runtime": "43200s",
+    "mruntime": "10s",
+    "minvref": "1.099",
+    "maxvref": "1.295",
+    "errortype": "Uncorrectable ECC",
+    "type": "DDR4",
+    "locator": ["P0_C0_D0","P0_C0_D1","P0_C1_D0","P0_C1_D1","P0_C2_D0","P0_C2_D1","P0_C3_D0","P0_C3_D1","P0_C4_D0","P0_C4_D1","P0_C5_D0","P0_C5_D1",
+        "P1_C0_D0","P1_C0_D1","P1_C1_D0","P1_C1_D1","P1_C2_D0","P1_C2_D1","P1_C3_D0","P1_C3_D1","P1_C4_D0","P1_C4_D1","P1_C5_D0","P1_C5_D1"        
+    ],
+    "mem_test_percent": "1%"
+}

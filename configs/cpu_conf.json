@@ -1,0 +1,13 @@
+{
+    "cpu_cors": 64,
+    "cpu_num": 2,
+    "cpu_freq": 1100,
+    "model_name": "Intel(R) Xeon(R) Gold 6226R CPU @ 2.90GHz",
+    "_comment": "CPU Stress Run time, Unit s,m,h",
+    "cpu_vol_max":2.1,
+    "cpu_vol_min":1.1,
+    "cpu_microcode": "0x5003003",
+    "mruntime": "10s",
+    "runtime": "43200s",
+    "l2_cache": "1024K"
+}

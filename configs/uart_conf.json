@@ -1,0 +1,6 @@
+{
+    "port": {
+        "dev": "/dev/ttyUSB0",
+        "baudrate": 115200
+    }
+}

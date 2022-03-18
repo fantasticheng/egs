@@ -1,0 +1,5 @@
+{
+    "max_time_diff": "10",
+    "delay_time": "5",
+    "ntp_server": "192.168.0.7"
+}

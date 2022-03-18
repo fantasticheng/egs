@@ -1,0 +1,9 @@
+{
+    "filename": "HBA_9311-8i_IR.rom",
+    "sasbios_rel": "mptsas3.rom",
+    "uefi_bsd_rel": "mpt3x64.rom",
+    "version": "16.00.15.00",
+    "bios_version": "8.37.02.00",
+    "check_tool": "sas3ircu",
+    "update_tool": "sas3flash"
+}

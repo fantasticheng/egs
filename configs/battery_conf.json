@@ -1,0 +1,7 @@
+{
+    "max_time_diff": 3,
+    "max_time": 30,
+    "rtc_bat": "P3V_BAT",
+    "bat_lc": 2.562,
+    "bat_uc": 3.57
+}

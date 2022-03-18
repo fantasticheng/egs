@@ -1,0 +1,13 @@
+{
+    "bmc fw name": "5601_999_HBMC_1.20.00.hpm",
+    "cpld fw name": "cpld_pangu_purly_2.hpm",
+    "bios fw name": "bios_pangu_purly_0.05.00.hpm",
+    "fpga fw name": "",
+    "bmc version": "1.40",
+    "cpld version": "12",
+    "cpld 12bp version": "05",
+    "cpld 4bp version": "04",
+    "fpga version": "",
+    "bios version": "PUR1.00.00",
+    "bios release_date": "08/24/2021"
+}

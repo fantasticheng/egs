@@ -1,0 +1,40 @@
+{
+    "pciecard":[
+        {        
+            "name": "I210",
+            "width": "x1",
+            "speed": "2.5GT/s",
+            "model": "Ethernet controller",
+            "bus":[
+                "01:00.0",
+                "02:00.0"
+            ]
+        },
+        {        
+            "name": "I350",
+            "width": "x4",
+            "speed": "5GT/s",
+            "model": "Ethernet controller",
+            "bus":[
+                "18:00.0",
+                "18:00.1",
+                "18:00.2",
+                "18:00.3",
+                "af:00.0",
+                "af:00.1",
+                "af:00.2",
+                "af:00.3"
+            ]
+        },
+        {        
+            "name": "X710",
+            "width": "x8",
+            "speed": "8GT/s",
+            "model": "Ethernet controller",
+            "bus":[
+                "d8:00.0",
+                "d8:00.1"
+            ]
+        }
+    ]
+}

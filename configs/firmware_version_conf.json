@@ -1,0 +1,50 @@
+{
+    "diag_version": "0.00.01",
+    "bmc_version": {
+        "bmc_main_version": "1.80",
+        "bmc_backup_version": "00 00"
+    },
+    "bios_version": {
+        "bios_main_version": "PUR1.00.00",
+        "release_date": null,
+        "bios_backup_version": ""
+    },
+    "cpld_version": {
+        "cpld_main_version": "12",
+        "cpld_backup_version": "",
+        "cpld_12bp_version": "00",
+        "cpld_4bp_version": "00"
+    },
+    "I210_version": {
+        "enp1s0": "3.30, 0x8000079b",
+        "enp2s0": "3.30, 0x80000774"
+    },
+    "I350_version": {
+        "enp24s0f0": "1.63,0x800009fb",
+        "enp24s0f1": "1.63,0x800009fb",
+        "enp24s0f2": "1.63,0x800009fb",
+        "enp24s0f3": "1.63,0x800009fb",
+        "enp175s0f0": "1.63,0x800009fb",
+        "enp175s0f1": "1.63,0x800009fb",
+        "enp175s0f2": "1.63,0x800009fb",
+        "enp175s0f3": "1.63,0x800009fb"
+    },
+    "MT27710_version": "",
+    "expander_version": "",
+    "hdd_version": "SN03",
+    "VR_version": "",
+    "raid_version": {
+        "version": "16.00.15.00",
+        "bios_version": "8.37.02.00"
+    },
+    "psu_version": {
+        "hwfw": {
+            "0xB0": "03 04 05 01",
+            "0xB2": "03 04 05 01"
+        },
+        "swfw": {
+            "0xB0": "06 02 01 04 00 01",
+            "0xB2": "06 02 01 04 00 01"
+        }
+    }
+}

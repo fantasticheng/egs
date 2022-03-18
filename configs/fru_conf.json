@@ -1,0 +1,31 @@
+{
+    "cia": {
+        "part_number": "HQ3110B095000", 
+        "serial_number": "F3Q4BDJ010",
+        "product_name": "HUAQIN",
+        "manufacturer": "HUAQIN"
+    },
+    "bia": {
+        "manufacturer": "SANGFOR",
+        "product_name": "ASERVER-R-2305L",
+        "serial_number": "F6C4ABI001",
+        "part_number": "HQ3120FQ31000",
+        "version": "02"
+    },
+    "pia": {
+        "manufacturer": "SANGFOR",
+        "product_name": "P6210-PN",
+        "serial_number": "F6C4ABI001",
+        "product_family": "HUAQIN_C621_ASERVER-R-2205",
+        "sku_id": "02410-0afpb-rrviq-xo7jk-d75d263e"
+    },
+    "mia_mar": {
+        "record_data": "274E9629-0000-0000-0000-AC1F6B7B9D62"
+    },
+    "mia_mac": {
+        "host_mac_address_count": "2",
+        "host_base_mac_address": "78D4F1500CD9",
+        "bmc_mac_address_count": "2",
+        "bmc_base_mac_address": "78D4F1500CDB"
+    }
+}

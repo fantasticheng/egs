@@ -1,0 +1,16 @@
+{
+    "dmi_type1": {
+        "manufacturer": "SANGFOR",
+        "product name": "P6210-PN",
+        "version": "02",
+        "uuid": "29964e27-0000-0000-0000-ac1f6b7b9d62",
+        "sku number": "02410-0afpb-rrviq-xo7jk-d75d263e",
+        "family": "HUAQIN_C621_ASERVER-R-2205"
+    },
+    "dmi_type2": {
+        "manufacturer": "SANGFOR",
+        "product name": "ASERVER-R-2305L",
+        "version": "02",
+        "serial number": "F6C4ABI001"
+    }
+}

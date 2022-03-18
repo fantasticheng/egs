@@ -1,0 +1,65 @@
+{
+    "ssd_num": 7,
+    "ssd_info": {
+        "ssd1": {
+            "size": "238.5G",
+            "model": "Micron_1300_MTFD",
+            "subarea": {
+                "dev_path": "/dev/sda",
+                "read_order_iops": "10k",
+                "read_order_speed": "10MB/s",
+                "read_random_iops": "1000",
+                "read_random_speed": "5MB/s",
+                "write_order_iops": "10k",
+                "write_order_speed": "10MB/s",
+                "write_random_iops": "5k",
+                "write_random_speed": "5MB/s"
+            }
+        },
+        "ssd2": {
+            "size": "7.3T",
+            "model": "ST8000NM000A-2KE",
+            "subarea": {
+                "dev_path": "/dev/sdb",
+                "read_order_iops": "10k",
+                "read_order_speed": "10MB/s",
+                "read_random_iops": "500",
+                "read_random_speed": "10MB/s",
+                "write_order_iops": "10k",
+                "write_order_speed": "10MB/s",
+                "write_random_iops": "500",
+                "write_random_speed": "5MB/s"
+            }
+        },
+        "ssd3": {
+            "size": "7.3T",
+            "model": "ST8000NM000A-2KE",
+            "subarea": {
+                "dev_path": "/dev/sdc",
+                "read_order_iops": "10k",
+                "read_order_speed": "10MB/s",
+                "read_random_iops": "500",
+                "read_random_speed": "5MB/s",
+                "write_order_iops": "10k",
+                "write_order_speed": "10MB/s",
+                "write_random_iops": "1000",
+                "write_random_speed": "5MB/s"
+            }
+        },
+        "ssd4": {
+            "size": "477G",
+            "model": "SAMSUNG",
+            "subarea": {
+                "dev_path": "/dev/nvme0n1",
+                "read_order_iops": "10k",
+                "read_order_speed": "10MB/s",
+                "read_random_iops": "5k",
+                "read_random_speed": "5MB/s",
+                "write_order_iops": "10k",
+                "write_order_speed": "10MB/s",
+                "write_random_iops": "5k",
+                "write_random_speed": "5MB/s"
+            }
+        }
+    }
+}

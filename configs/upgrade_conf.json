@@ -1,0 +1,15 @@
+{
+    "fw_path": "/home/fw/",
+    "upgrade_base": "hpm upgrade {} -z 0x1800 force",
+    "upgrade_cpld_hdd": "hpm upgrade {} -z 4096 force",
+    "upgrade_bios_bak": "hpm upgrade {} -z 4096",
+    "bios_bmc_ctrl_sw_Pri": "raw 0x3a 0x32 0x01 0x00",
+    "check_ctrl_bios_sta": "raw 0x3a 0x32 0x00",
+    "bios_cpu_ctrl_sw_Pri": "raw 0x3a 0x32 0x01 0x03",
+    "bios_bmc_ctrl_sw_bak": "raw 0x3a 0x32 0x01 0x01",
+    "bmc_switch_1": "raw 0x32 0x8f 0x03 0x01",
+    "bmc_switch_2": "raw 0x32 0x8f 0x03 0x02",
+    "cpld_mux": "raw 0x3a 0x34 0x01 0x00 0x01",
+    "cpld_12hdd_pri": "raw 0x3a 0x34 1 4 1",
+    "cpld_4hdd_pri": "raw 0x3a 0x34 1 5 1"
+}

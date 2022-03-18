@@ -1,0 +1,21 @@
+{
+    "lbmc_user": "sangfor",
+    "lbmc_passwd": "sangfor123",
+    "bmc_ip": "192.168.2.66",
+    "sbmc_user": "sangfor",
+    "sbmc_passwd": "'S#AN$6fo81r'",
+    "mac address": "FA528FD2E4EA",
+    "_comment": "channel value format: '1,8'",
+    "lan channel": "1,8",
+    "Fan_manual_oem_cmd": "raw 0x3a 0x30 0x01 0x00",
+    "Fan_auto_oem_cmd": "raw 0x3a 0x30 0x01 0x01",
+    "Fan_load_oem_cmd": "raw 0x3a 0x30 0x02",
+    "sensor id": {
+        "Fan1_PWM": "0xBC",
+        "Fan2_PWM": "0xBD",
+        "Fan3_PWM": "0xBE",
+        "Fan4_PWM": "0xBF"
+    },
+    "default_ip_address": "192.168.10.10",
+    "null_ip_address": "0.0.0.0"
+}

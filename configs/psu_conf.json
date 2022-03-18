@@ -1,0 +1,28 @@
+{
+    "psu_info":{
+        "psu1":{
+            "Product Manufacturer": "GREAT WALL",
+            "Product Name": "GW-CRPS800N2",
+            "Product Part Number": "GW-CRPS800N2",
+            "Product Version": "1.2",
+            "Product Serial": "2L040106082"
+        },
+        "psu2":{
+            "Product Manufacturer": "GREAT WALL",
+            "Product Name": "GW-CRPS800N2",
+            "Product Part Number": "GW-CRPS800N2",
+            "Product Version": "1.2",
+            "Product Serial": "2L040106081"
+        }
+        
+    },
+    "psu_num": 2,
+    "psu":{
+        "PSU1_Status": {
+            "installed": true
+        },
+        "PSU2_Status":{
+            "installed": true
+        }
+    }
+}        
